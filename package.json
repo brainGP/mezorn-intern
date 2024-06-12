@@ -1,0 +1,22 @@
+{
+  "name": "mezorn-type",
+  "version": "1.0.0",
+  "description": "backend of typerace",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brainGP/mezorn-intern.git"
+  },
+  "keywords": [
+    "1234"
+  ],
+  "author": "bat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brainGP/mezorn-intern/issues"
+  },
+  "homepage": "https://github.com/brainGP/mezorn-intern#readme"
+}
